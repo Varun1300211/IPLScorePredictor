@@ -1,0 +1,9 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore the machine learning model file
+ml_model.pkl
+
+# Ignore the requirements.txt file if necessary
+# You might not need this line if you want to keep requirements.txt in your repository
+requirements.txt
